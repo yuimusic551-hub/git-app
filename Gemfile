@@ -69,3 +69,4 @@ end
 
 gem 'pry-rails'
 pry-rails
+devise
