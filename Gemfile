@@ -70,4 +70,5 @@ end
 gem 'pry-rails'
 pry-rails
 
-devise
+ gem 'devise'
+
