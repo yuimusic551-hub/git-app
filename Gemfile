@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+
 source "https://rubygems.org"
 
 ruby "3.2.0"
@@ -67,5 +67,8 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
-  
+
+
+ gem 'pry-rails'
  gem 'devise'
+
