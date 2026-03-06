@@ -143,3 +143,9 @@ end
 
 gem 'devise'
 
+<<<<<<< HEAD
+=======
+
+
+ 
+>>>>>>> f387a82fd272d087d2c449ba2c0fe6a89020a6d7
